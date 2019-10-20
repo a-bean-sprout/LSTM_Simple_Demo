@@ -4,4 +4,4 @@
 
 模型整体结构：文本输入层--embeding层--全连接层--输出层。
 
-代码详解：https://www.zhihu.com/people/a-liang-32-16/posts
+代码详解：https://zhuanlan.zhihu.com/p/87396585
